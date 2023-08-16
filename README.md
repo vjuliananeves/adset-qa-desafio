@@ -2,7 +2,7 @@
 
 # Desafio para candidatos (Analista de Qualidade - QA)
 
-Seja bem-vindo! Este desafio foi projetado para avaliar a capacidade técnica de candidatos à vagas de Analista de Qualidade voltadas para testes de aplicações web e mobile, independente da senioridade. O nível de exigência da avaliação se adequa ao nível da vaga.
+Seja bem-vindo! Este desafio foi projetado para avaliar a capacidade técnica de candidatos à vagas de Analista de Qualidade voltadas para testes de aplicações web e mobile.
 
 ## Visão geral:
 A INNOV SOLUÇÕES EM TECNOLOGIA surgiu com o objetivo de trazer praticidade para o mercado automotivo, prestando um atendimento personalizado e que visa atender a necessidade de cada um dos nossos clientes.
