@@ -18,7 +18,7 @@ A primeira delas tem como objetivo avaliar o planejamento do candidato em casos 
 
 Seu desafio nesta etapa é criar um planejamento de casos de teste que você julgar necessário para ter o fluxo de inclusão de um novo veículo bem testado. A ideia neste primeiro momento é apenas descrever os cenários de teste.
 
-# Critérios de avaliação
+### Critérios de avaliação
 
 1. Qualidade dos cenários de testes
 2. Organização
@@ -27,7 +27,7 @@ Seu desafio nesta etapa é criar um planejamento de casos de teste que você jul
 
 No segundo momento é necessário que você registre todas as ocorrências encontradas ao executar os cenários de teste
 
-# Critérios de avaliação
+### Critérios de avaliação
 1. Organização
 2. Registro de ocorrências
 
@@ -37,7 +37,7 @@ Obs.: É importante ressaltar, você deve se atentar a plataforma em que os test
 
 Seu desafio nesta etapa é desenvolver testes automatizados, a partir dos casos de testes desevolvidos na etapa anterior.
 
-# Informações sobre essa etapa
+### Informações sobre essa etapa
 
 1. Utilize o formato Gherkin ou semelhante para a criação dos cenários
 2. Utilize o appium/selenium/cypress ou outro como ferramenta de automação
@@ -45,7 +45,7 @@ Seu desafio nesta etapa é desenvolver testes automatizados, a partir dos casos 
 4. Você poderá utilizar frameworks (opcional)
 5. É necessário registrar um vídeo da automação do teste feito
 
-# Critérios de avaliação
+### Critérios de avaliação
 
 1. Organização
 2. Escrita dos casos de testes
