@@ -65,9 +65,9 @@ Seu desafio nesta etapa é desenvolver testes automatizados, a partir dos casos 
 ## Instruções:
 
 1. Faça um fork deste repositório
-2. Anexe o seu conjunto de casos de teste em .pdf dentro da pasta testCases
-3. Caso seja necessário, anexe os scripts de automação dentro da pasta scripts
-4. Adicione o link do vídeo de sua automação sendo executada dentro do arquivo scripts/videoLink.md
+2. Anexe o seu conjunto de casos de teste em .pdf dentro da pasta **testCases**
+3. Caso seja necessário, anexe os scripts de automação dentro da pasta **/scripts**
+4. Adicione o link do vídeo de sua automação sendo executada dentro do arquivo **scripts/videoLink.md**
 5. Após terminar, submeta um pull request e aguarde a avaliação
 
 ## Notas:
