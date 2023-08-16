@@ -53,7 +53,7 @@ Seu desafio nesta etapa é desenvolver testes automatizados, a partir dos casos 
 
 1. Acesse a página: https://www.adset.com.br/integrador
 2. Utilize o usuário: UUUUUU e senha: SSSSSSS
-3. Acesse no menu "veículo" o item "incluir".
+3. Acesse no menu "Veículos" o item "Incluir".
 
 <img src="https://github.com/adset-innov/adset-qa-desafio/blob/main/adset-incluir.png">
 
