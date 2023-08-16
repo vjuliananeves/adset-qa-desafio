@@ -31,8 +31,6 @@ No segundo momento é necessário que você registre todas as ocorrências encon
 1. Organização
 2. Registro de ocorrências
 
-Obs.: É importante ressaltar, você deve se atentar a plataforma em que os testes devem ser feitos.
-
 ## Segunda etapa:
 
 Seu desafio nesta etapa é desenvolver testes automatizados, a partir dos casos de testes desevolvidos na etapa anterior.
@@ -50,6 +48,14 @@ Seu desafio nesta etapa é desenvolver testes automatizados, a partir dos casos 
 1. Organização
 2. Escrita dos casos de testes
 3. Qualidade do código
+
+## Acesso ao AdSet Integrador (Inclusão de Veículo):
+
+1. Acesse a página: https://www.adset.com.br/integrador
+2. Utilize o usuário: UUUUUU e senha: SSSSSSS
+3. Acesse no menu "veículo" o item "incluir".
+
+<img src="https://github.com/adset-innov/adset-qa-desafio/blob/main/adset-incluir.png">
 
 ## Requisitos mínimos:
 
