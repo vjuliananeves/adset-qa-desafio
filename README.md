@@ -1,4 +1,4 @@
-<img src="https://github.com/adset-innov/adset-integrador-desafio/blob/main/adset-integrador.png">
+<img src="https://github.com/adset-innov/adset-qa-desafio/blob/main/adset-integrador.png">
 
 # Desafio QA
 
