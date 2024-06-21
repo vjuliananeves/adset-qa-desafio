@@ -2,30 +2,29 @@
 
 # Desafio para candidatos (Analista de Qualidade - QA)
 
-Seja bem-vindo! Este desafio foi projetado para avaliar a capacidade técnica de candidatos à vagas de Analista de Qualidade voltadas para testes de aplicações web e mobile.
+Seja bem-vindo! Este desafio foi projetado para avaliar a capacidade técnica de candidatos à vaga de Analista de Qualidade, voltada para testes de aplicações web e mobile.
 
 ## Visão geral:
 A INNOV SOLUÇÕES EM TECNOLOGIA (ADSet) surgiu com o objetivo de trazer praticidade para o mercado automotivo, prestando um atendimento personalizado e que visa atender a necessidade de cada um dos nossos clientes.
-Com os produtos ADSet, disponibilizamos ao mercado tecnologia de ponta, com foco total em qualidade, aumentando significamente os resultados das revenda de veículos.
+Com os produtos ADSet, disponibilizamos ao mercado tecnologia de ponta, com foco total em qualidade, aumentando significativamente os resultados das revenda de veículos.
 
 ## Desafio:
 
-Seu desafio irá ser composto de duas etapas.
+Seu desafio será composto de duas etapas.
 
 A primeira delas tem como objetivo avaliar o planejamento do candidato em casos de testes. A segunda etapa tem como objetivo avaliar o candidato na automação dos testes.
 
 ## Primeira etapa:
 
-Seu desafio nesta etapa é criar um planejamento de casos de teste que você julgar necessário para ter o fluxo de inclusão de um novo veículo bem testado. A ideia neste primeiro momento é apenas descrever os casos de teste.
+Seu desafio nessa etapa é realizar testes manuais na aplicação, para entender seu comportamento e identificar casos de teste potenciais para ter o fluxo de inclusão de um novo veículo, bem testado. Com base no seu entendimento, escreva cenários de teste detalhados no formato Gherkin. Certifique-se de incluir casos de teste positivos e negativos.
 
 ### Critérios de avaliação
 
-1. Qualidade dos casos de testes
-2. Organização
-3. Cobertura dos casos de testes
-4. Utilizar o formato Gherkin ou semelhante para descrever os casos de teste (opcional)
+1. Organização
+2. Qualidade dos cenários de teste
+3. Qualidade e cobertura dos casos de teste
 
-No segundo momento é necessário que você registre todas as ocorrências encontradas ao executar os casos de testes
+Após executar os testes, gere um relatório que mostre claramente quais testes passaram ou falharam, com todas as ocorrências encontradas.
 
 ### Critérios de avaliação
 1. Organização
@@ -33,7 +32,7 @@ No segundo momento é necessário que você registre todas as ocorrências encon
 
 ## Segunda etapa:
 
-Seu desafio nesta etapa é desenvolver testes automatizados, a partir dos casos de testes desevolvidos na etapa anterior.
+Seu desafio nesta etapa é desenvolver testes automatizados, a partir dos casos de testes desenvolvidos na etapa anterior.
 
 ### Informações sobre essa etapa
 
@@ -73,5 +72,5 @@ Seu desafio nesta etapa é desenvolver testes automatizados, a partir dos casos 
 ## Notas:
 
 - ! Importante ! O cumprimento dos requisitos solicitados para uma vaga não é garantia de aprovação. Focamos em avaliar a forma como os requisitos foram cumpridos.
-- Apesar da listagem de requisitos mínimos acima, caso não tenha tido tempo suficiente ou tenha se esbarrado em alguma dificuldade, entregue o desafio ainda que incompleto e conte-nos na descrição do pull request quais foram as suas maiores dificuldades. Não se preocupe, avaliaremos ainda assim! :)
+- Apesar da listagem de requisitos mínimos acima, caso não tenha tido tempo suficiente ou tenha enfrentado alguma dificuldade, entregue o desafio ainda que incompleto e conte-nos na descrição do pull request quais foram as suas maiores dificuldades. Não se preocupe, avaliaremos ainda assim! :)
 - Lembre-se de fazer um fork deste repositório! Apenas cloná-lo vai te impedir de criar o pull request e dificultar a entrega
